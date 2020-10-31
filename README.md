@@ -1,8 +1,8 @@
 ## Summary
-Redirect youtube.com to invidious.xyz without making a single connection to YouTube.
+Redirect youtube.com to invidious.snopyta.org without making a single connection to YouTube.
 After the main invidio.us instance was taken down, I have revised this extension to
-point to invidio.xyz instead. If you would like to change to another instance,
-simply replace the "invidio.xyz" string with the domain of the instance you would
+point to invidious.snopyta.org instead. If you would like to change to another instance,
+simply replace the "invidious.snopyta.org" string with the domain of the instance you would
 like to use instead.
 
 ## License
